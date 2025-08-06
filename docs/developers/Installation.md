@@ -22,7 +22,7 @@ Vist the projects' [repository](https://github.com/TimothyOlanrewaju/TastyBitesA
 Alternatively, you can enter this on the command line :
 
 ```
-git clone https://github.com/TimothyOlanrewaju/TastyBitesApp
+git clone https://github.com/TimothyOlanrewaju/FMCK-Canteen-App-DocSite
 ```
 
 :::info

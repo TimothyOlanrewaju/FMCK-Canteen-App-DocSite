@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'FMCK Canteen App Documentation',
-  // favicon: 'img/favicon.ico',
+  favicon: 'img/FMCK_Logo.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -87,7 +87,7 @@ const config = {
         //   },
         //   {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/TimothyOlanrewaju/TastyBitesApp',
+            href: 'https://github.com/TimothyOlanrewaju/FMCK-Canteen-App-DocSite',
             label: 'GitHub',
             position: 'right',
           },
