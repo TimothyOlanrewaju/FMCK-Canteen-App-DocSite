@@ -12,15 +12,15 @@ const config = {
   favicon: 'img/FMCK_Logo.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://TimothyOlanrewaju.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/FMCK-Canteen-App-DocSite/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'TimothyOlanrewaju', // Your GitHub username
+  projectName: 'FMCK-Canteen-App-DocSite',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
