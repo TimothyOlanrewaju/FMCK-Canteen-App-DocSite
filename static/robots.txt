@@ -1,0 +1,11 @@
+# Algolia-Crawler-Verif: 13B6A6ED6D37F309
+
+# Standard robots.txt for Docusaurus
+User-agent: *
+Allow: /
+
+# Allow Algolia crawler specifically
+User-agent: Algolia Crawler
+Allow: /
+
+Sitemap: https://timothyolanrewaju.github.io/FMCK-Canteen-App-DocSite/sitemap.xml
