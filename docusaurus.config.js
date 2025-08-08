@@ -33,16 +33,6 @@ const config = {
     locales: ['en'],
   },
 
-//   plugins: [
-//   [
-//     '@docusaurus/plugin-sitemap',
-//     {
-//       changefreq: 'weekly',
-//       priority: 0.5,
-//     },
-//   ],
-// ],
-
   presets: [
     [
       'classic',
@@ -80,6 +70,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+      {
+        name: 'algolia-site-verification', 
+        content: '13B6A6ED6D37F309' 
+      }
+    ],
       algolia: {
       appId: 'NJ3JLLW06C', 
       apiKey: '0f0d6436ed31fc8167299df90408a782', 
