@@ -27,9 +27,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -72,8 +70,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      // image: 'img/docusaurus-social-card.jpg',
+      algolia: {
+      appId: 'NJ3JLLW06C', 
+      apiKey: '0f0d6436ed31fc8167299df90408a782', 
+      indexName: 'fmck_documentation', 
+    },
       navbar: {
         title: 'Federal Medical Center Keffi',
         logo: {
