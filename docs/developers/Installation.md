@@ -17,7 +17,7 @@ Run `python --version` in your terminal or command prompt to check if Python is 
 
 ## 2. Clone the Github Repository
 
-Vist the projects' [repository](https://github.com/TimothyOlanrewaju/TastyBitesApp) on Github. Click on the **Code** button and then **Download ZIP**.
+Vist the projects' [repository](https://github.com/TimothyOlanrewaju/FMCK-Canteen-App-DocSite) on Github. Click on the **Code** button and then **Download ZIP**.
 
 Alternatively, you can enter this on the command line :
 

@@ -40,7 +40,7 @@ The model is defined and implemented through the following processes within the 
 
 These processes are linked as shown in this diagram :
 
-![MVT](../../static/img/MVT.PNG "MVT Workflow diagram")
+![MVT](/img/MVT.PNG "MVT Workflow diagram")
 
 ### Sample MVT Workflow Example
 
@@ -131,4 +131,4 @@ The database consists of six (6) entities namely: User, Meal, UserGroup, Categor
 
 This is the diagrammatic representation of the key entities and their relationships.
 
-![ERD](../../static/img/ERD1.png "Entity Relationship Diagram")
+![ERD](/img/ERD1.PNG "Entity Relationship Diagram")

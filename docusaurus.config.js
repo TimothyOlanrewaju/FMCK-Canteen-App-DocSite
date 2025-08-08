@@ -11,6 +11,8 @@ const config = {
   title: 'FMCK Canteen App Documentation',
   favicon: 'img/FMCK_Logo.png',
 
+  // staticDirectories: ['public', 'static'],
+
   // Set the production url of your site here
   url: 'https://TimothyOlanrewaju.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served

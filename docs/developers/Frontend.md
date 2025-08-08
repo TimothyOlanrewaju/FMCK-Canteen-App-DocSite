@@ -113,7 +113,7 @@ Data within the application's frontend is primarily driven by user events like c
 
 For example: On initial load, meal data is loaded from the backend and displayed on the frontend. The meal items would have to be selected individually to be added to a Menu.
 
-![Adding meals to the Menu](../../static/img/Menu.png)
+![Adding meals to the Menu](/img/Menu.png)
 
 On selection of meal items, the following DOM manipulations occurs on a click event:
 
@@ -217,7 +217,7 @@ Here is how the **Base.html** file looks like:
 
 JQuery was used in the calendar functionality, specifically for admins who select call dates for clinicians registered under their department.
 
-![Calendar](../../static/img/calendar.PNG "The Call Roster Calendar")
+![Calendar](/img/calendar.PNG "The Call Roster Calendar")
 
 JQuery enabled complex manipulations on the Calendar that simplified the process of date selections.
 
@@ -227,7 +227,7 @@ The functionalities of the Calendar are:
 - Disabling past dates, making them unavailable for selection.
 - On clicking any of the dates on the calendar, the selection is indicated by a purple circle (🟣) around it.
 
-![CalendarSelection](../../static/img/calendar-selection.PNG "Call Dates Selection")
+![CalendarSelection](/img/calendar-selection.PNG "Call Dates Selection")
 
 - On clicking an already selected date on the calendar, it deselects the date(s) and removes the purple indicator.
 

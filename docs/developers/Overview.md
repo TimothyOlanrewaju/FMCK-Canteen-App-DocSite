@@ -208,4 +208,4 @@ It includes the following sub-folders:
 
 This flowchart provides a visual walk-through of the application's process flow and an idea of how the system operates.
 
-![flowchart](../../static/img/Food_Ordering_Process_Flowchart.png "Meal Ordering Flowchart")
+![flowchart](/img/Food_Ordering_Process_Flowchart.png "Meal Ordering Flowchart")
