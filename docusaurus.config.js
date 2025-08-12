@@ -73,7 +73,8 @@ const config = {
       metadata: [
       {
         name: 'algolia-site-verification', 
-        content: '13B6A6ED6D37F309' 
+        // content: '13B6A6ED6D37F309' 
+        content: '87BCDACE7FF5BA4A' 
       }
     ],
       algolia: {
